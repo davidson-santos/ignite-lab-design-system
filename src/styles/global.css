@@ -1,0 +1,4 @@
+/* IMPORTAÇÕES GLOBAIS PARA O TAILWIND FUNCIONAR */
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
